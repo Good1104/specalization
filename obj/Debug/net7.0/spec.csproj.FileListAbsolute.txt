@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\spec\bin\Debug\net7.0\spec.exe
+C:\Users\User\Desktop\spec\bin\Debug\net7.0\spec.deps.json
+C:\Users\User\Desktop\spec\bin\Debug\net7.0\spec.runtimeconfig.json
+C:\Users\User\Desktop\spec\bin\Debug\net7.0\spec.dll
+C:\Users\User\Desktop\spec\bin\Debug\net7.0\spec.pdb
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.AssemblyInfo.cs
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.dll
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\refint\spec.dll
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.pdb
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\spec.genruntimeconfig.cache
+C:\Users\User\Desktop\spec\obj\Debug\net7.0\ref\spec.dll
